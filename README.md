@@ -10,25 +10,25 @@ __Features__
 
 
 __Usage__
-1. Development Mode.
+- Development Mode.
 
 ```bash
 npm run dev
 ```
 
-2. Production Bundling.
+- Production Bundling.
 
 ```bash
 npm run build
 ```
 
-3. Serving the files staticly(needs httpster)
+- Serving the files staticly(needs httpster)
 
 ```bash
 npm run serve
 ```
 
-4. ES6 linting.
+- ES6 linting.
 
 ```bash
 npm run lint
