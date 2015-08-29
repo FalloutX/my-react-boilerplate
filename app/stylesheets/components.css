@@ -1,0 +1,10 @@
+div {
+  border-bottom: 2px solid #7f0129;
+}
+
+h1,p {
+  font-family: "Liberation Mono", Georgia, Arial, serif;
+  font-size: 50px;
+  text-align: center;
+  margin: auto;
+}
